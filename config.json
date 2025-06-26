@@ -1,0 +1,12 @@
+[
+  {
+    "id": "test",
+    "path": "./test.log",
+    "type": "app"
+  },
+  {
+    "id": "new-log",
+    "path": "./test.log",
+    "type": "application"
+  }
+]
